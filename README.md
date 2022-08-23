@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @carlos-jmh
 - 👀 I’m interested in Cloud Computing, backend development, and microservices!
 - 📖 Languages: Go, Javascript, Python
-- 🌱 I’m currently learning some AWS, Twirp and Go, and a bit of Frontend with React
+- 🌱 I’m currently learning some AWS, Twirp with Go, and a bit of Frontend with React
